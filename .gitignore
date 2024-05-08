@@ -1,0 +1,33 @@
+# Rider-specific files
+.idea/
+
+# Rider user-specific files
+*.sln.iml
+*.suo
+*.user
+*.userprefs
+*.usertasks
+
+# .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Build tooling
+_ReSharper*/
+TestResults/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Ll]og/
+[Nn]ode_modules/
+[Tt]emp/
+[Vv]elocityOutput/
+
