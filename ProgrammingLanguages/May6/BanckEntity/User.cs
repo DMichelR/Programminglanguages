@@ -1,3 +1,5 @@
+using System;
+
 namespace ConsoleApp1.May6.BanckEntity;
 
 public class User

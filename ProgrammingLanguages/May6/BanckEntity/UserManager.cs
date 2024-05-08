@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+
 namespace ConsoleApp1.May6.BanckEntity;
 
 public class UserManager
