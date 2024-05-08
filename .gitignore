@@ -9,8 +9,8 @@
 *.usertasks
 
 # .NET
-bin/
-obj/
+ProgrammingLanguages/bin/
+ProgrammingLanguages/obj/
 *.dll
 *.exe
 *.pdb
